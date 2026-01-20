@@ -1,0 +1,45 @@
+/*
+ *  This file going to have multiple versions.
+ *
+ *  Each version is fully processable with components that mentioned in it's own main.ce (this file) file.
+ */
+
+fn main() i32 {
+	let a, b : i32 = [1, 2]
+	let i=0, a c8: const
+	let ptr *
+	0 * 5 * 3 + 2 + 2 + a++
+
+	square(5)
+
+	let m [] i32
+
+	m[1]
+
+	do {
+		// opens a scope
+	}
+
+	do{}
+	while true
+		println()
+	then {}
+
+	do {}
+	for i i32 in args {
+		
+	}
+
+	for i i32=0; true; {i++, l++}
+		print(i)
+	then {}
+
+	let a;
+
+	return [1, 2];
+}
+
+
+fn square(a i32) i32 {
+	a * a
+}
