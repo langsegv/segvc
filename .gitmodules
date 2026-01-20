@@ -1,0 +1,3 @@
+[submodule "segvp"]
+	path = segvp
+	url = https://github.com/langsegv/segvp
